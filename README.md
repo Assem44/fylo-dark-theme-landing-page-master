@@ -2,20 +2,17 @@
 
 A responsive, dark-themed landing page for the Fylo file storage service. It showcases product features, productivity benefits, testimonials, and a call-to-action for early access sign-up.
 
----
+
+##  Preview
+
+![Project Preview](./assets/screenshots/preview.jpg)
+
 
 ## 🔗 Quick Links
 
 * **[Live Demo Site](https://assem44.github.io/fylo-dark-theme-landing-page-master)**
 * **[Frontend Mentor Challenge Page](https://www.frontendmentor.io/challenges/fylo-dark-theme-landing-page-5ca5f2d21e82137ec91a50fd)**
 
----
-
-##  Preview
-
-![Project Preview](./assets/screenshots/preview.jpg)
-
----
 
 ## Features
 
@@ -24,7 +21,6 @@ A responsive, dark-themed landing page for the Fylo file storage service. It sho
 * **Form Validation:** Custom-built email validation with immediate visual feedback for the user (Error/Success states).
 * **Interactive UI:** Polished hover effects on all buttons, links, and social media icons to enhance User Experience (UX).
 
----
 
 ## Built With
 

@@ -10,7 +10,7 @@ A responsive, dark-themed landing page for the Fylo file storage service. It sho
 
 ## 🔗 Quick Links
 
-* **[Live Demo Site](https://assem44.github.io/fylo-dark-theme-landing-page-master)**
+* **[Live Demo Site](https://assem44.github.io/fylo-dark-theme-landing-page)**
 * **[Frontend Mentor Challenge Page](https://www.frontendmentor.io/challenges/fylo-dark-theme-landing-page-5ca5f2d21e82137ec91a50fd)**
 
 
